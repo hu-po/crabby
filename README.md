@@ -44,3 +44,8 @@ build for release
 cargo build --release
 ```
 
+generate local docs and open in browser
+
+```
+cargo doc --open 
+```
